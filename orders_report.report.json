@@ -1,0 +1,9 @@
+{
+  "input_file": "messy_orders.xlsx",
+  "output_file": "orders_report.xlsx",
+  "input_data_rows": 62,
+  "clean_output_rows": 43,
+  "blank_rows_removed": 1,
+  "duplicate_rows_removed": 1,
+  "invalid_or_incomplete_rows_skipped": 17
+}
